@@ -1,0 +1,1 @@
+"./sor/key_event.obj" "./sor/cry12864.obj" "./sor/clock.obj" "./sor/Motor.obj" "./sor/Internal_ADC.obj" "./sor/ADS1118A.obj" "./main.obj" -l"libc.a" "../lnk_msp430f5438a.cmd" 
